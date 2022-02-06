@@ -1,0 +1,10 @@
+plugins {
+  id "com.android.library"
+}
+
+description = """
+Java objects that wrap the LibLouis native code.
+"""
+
+apply from: rootProject.file("all.gradle")
+apply from: rootProject.file("jni.gradle")

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="louis_ttd_BRAILLE_PATTERNS">Actual Braille Cells</string>
+  <string name="louis_ttd_IPA_SAFE">International Phonetic Alphabet (non-conflicting symbols)</string>
+  <string name="louis_ttd_IPA_ALL">International Phonetic Alphabet (all symbols)</string>
+  <string name="louis_ttd_BOXES">(box drawing characters)</string>
+  <string name="louis_ttd_EN_CHESS">Chess, English</string>
+</resources>
